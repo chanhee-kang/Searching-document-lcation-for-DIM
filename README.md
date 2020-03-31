@@ -1,5 +1,5 @@
 # DOCUMENT의 위치표기 코드
-* 해당 csv파일의 document의 위치를 찾아내여 DIM을 구축할수있도록 해주는 코드
+* 해당 csv파일의 document의 위치를 찾아내여 DIM을 구축할수있도록 해주는 코드이다.
 
 ## Installation
 * Python 3.x 버젼으로 구축되어있습니다. 파이썬 기본환경을 세팅해 주십시오.
